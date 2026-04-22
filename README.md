@@ -1,4 +1,4 @@
-# 基于图片的UI风格提取 | Claude Skill
+# 基于图片的UI风格提取 Picture based UI Design Extractor 
 
 一个可安装到 Claude Code / Code X / Cursor 的专业 UI 规范提取技能。
 只需上传一张 UI 截图，即可自动输出：配色方案、字体层级、数据字体、间距与圆角。
@@ -36,4 +36,3 @@
 2. 上传 UI 界面图片
 3. 输入指令：提取这张图片的 UI 风格
 4. 获取完整规范
-测试git
